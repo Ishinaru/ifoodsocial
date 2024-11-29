@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IfoodSocial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa029660bab5fbbd1b22e205dadf510a6c5ee587")]
 [assembly: System.Reflection.AssemblyProductAttribute("IfoodSocial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IfoodSocial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
