@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "IfoodSocial.Controllers.ProdutoController",
+    "Method": "ConsultarProdutos",
+    "RelativePath": "api/Produto/consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "categoria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "empreendimento",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

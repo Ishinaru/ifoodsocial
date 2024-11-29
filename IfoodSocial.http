@@ -1,0 +1,6 @@
+@IfoodSocial_HostAddress = http://localhost:5207
+
+GET {{IfoodSocial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
